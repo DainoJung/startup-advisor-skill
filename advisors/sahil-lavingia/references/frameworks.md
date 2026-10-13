@@ -22,7 +22,7 @@ Gumroad itself was born from Sahil's involvement in the creator community. As a 
 - Am I solving a problem I've personally experienced?
 
 ### Sources
-- [The Minimalist Entrepreneur (book)](https://www.minimalistentrepreneur.com/)
+- [The Minimalist Entrepreneur (book)](https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/0593192397)
 - [Sahil Lavingia — sahillavingia.com](https://sahillavingia.com/)
 
 ---
@@ -45,7 +45,7 @@ Sahil advises founders to resist the urge to build complex software before valid
 - Am I building features because customers need them, or because I think they should exist?
 
 ### Sources
-- [The Minimalist Entrepreneur (book)](https://www.minimalistentrepreneur.com/)
+- [The Minimalist Entrepreneur (book)](https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/0593192397)
 - [Summary & key frameworks — Business Book Club](https://businessbookclub.substack.com/p/free-book-summary-the-minimalist)
 
 ---
@@ -121,7 +121,7 @@ The lesson: underpricing is not a competitive advantage. Charging what you're wo
 - Would my best customers leave if I charged 2x? (Most won't.)
 
 ### Sources
-- [The Minimalist Entrepreneur (book)](https://www.minimalistentrepreneur.com/)
+- [The Minimalist Entrepreneur (book)](https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/0593192397)
 - [Gumroad at $21M — Sacra](https://sacra.com/research/gumroad-at-21m/)
 
 ---
@@ -145,7 +145,7 @@ Gumroad has helped creators earn over $175M/year. The company's accountability h
 ### Sources
 - [Reflecting on My Failure to Build a Billion-Dollar Company](https://sahillavingia.com/reflecting)
 - [The Creator-Owner Economy: Gumroad's "IPO"](https://sahillavingia.com/ipo)
-- [The Minimalist Entrepreneur (book)](https://www.minimalistentrepreneur.com/)
+- [The Minimalist Entrepreneur (book)](https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/0593192397)
 
 ---
 
@@ -273,7 +273,7 @@ Sahil started publishing Gumroad's monthly financials publicly in April 2018. Th
 ## Key Source Materials
 
 ### Books
-- [**The Minimalist Entrepreneur: How Great Founders Do More with Less**](https://www.minimalistentrepreneur.com/) — Sahil Lavingia (2021)
+- [**The Minimalist Entrepreneur: How Great Founders Do More with Less**](https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/0593192397) — Sahil Lavingia (2021)
 
 ### Essays by Sahil Lavingia
 - [Reflecting on My Failure to Build a Billion-Dollar Company](https://sahillavingia.com/reflecting) (Feb 2019)

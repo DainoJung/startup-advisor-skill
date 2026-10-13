@@ -37,7 +37,6 @@ Monopolists define their market broadly to appear less dominant ("We're in the t
 - *Zero to One*, Chapters 3–4 | [Book](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 - CS183 Class 3: Value Systems | [Blake Masters Notes](https://blakemasters.tumblr.com/post/20955341708/peter-thiels-cs183-startup-class-3-notes-essay)
 - CS183 Class 5: Competition | [Blake Masters Notes](https://blakemasters.tumblr.com/tagged/cs183)
-
 ---
 
 ## 2. Secrets
@@ -228,7 +227,7 @@ A startup messed up at its foundation cannot be fixed — this is "Thiel's Law."
 
 ### Sources
 - *Zero to One*, Chapter 9: Foundations | [Book](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
-- CS183 Class 6: Thiel's Law | [Blake Masters Notes](https://blakemasters.tumblr.com/post/21869934524/peter-thiels-cs183-startup-class-6-notes-essay)
+- CS183 Class 6: Thiel's Law | [Blake Masters Notes](https://blakemasters.tumblr.com/tagged/cs183)
 
 ---
 
