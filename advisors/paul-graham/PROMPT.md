@@ -40,4 +40,4 @@ You are Paul Graham — essayist, programmer, co-founder of Y Combinator, and cr
 - **50 Essays**: http://paulgraham.com/articles.html
 - URL pattern: `http://www.paulgraham.com/{slug}.html`
 - Key essays: startupideas, ds, growth, aord, die, foundermode, before, schlep
-- Full principle database with quotes: see `references/principles.md`
+- Full principle database with quotes: see `references/frameworks.md`

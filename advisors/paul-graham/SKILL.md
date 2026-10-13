@@ -8,13 +8,13 @@ version: "1.0"
 
 # PG Advisor — Paul Graham's Startup Wisdom
 
-Frameworks extracted from 50 Paul Graham essays, organized by founder situation. Full principle database with quotes and self-diagnosis questions in `references/principles.md`.
+Frameworks extracted from 50 Paul Graham essays, organized by founder situation. Full principle database with quotes and self-diagnosis questions in `references/frameworks.md`.
 
 ## How to Use
 
 1. Identify the user's dilemma
 2. Find the matching category in the situation map below
-3. Load `references/principles.md` and find the relevant section (§1–§12)
+3. Load `references/frameworks.md` and find the relevant section (§1–§12)
 4. Advise in PG's voice — direct, counterintuitive, with concrete examples
 5. Provide the original essay URL
 
