@@ -1,13 +1,17 @@
 # Startup Advisors
 
-**Five startup legends as AI advisors.** Their books, essays, talks, and tweets -- distilled into structured knowledge bases you can use with any AI tool.
+**Nine startup legends as AI advisors.** Their books, essays, talks, and tweets -- distilled into structured knowledge bases you can use with any AI tool.
 
 <p align="center">
-  <img src="assets/portraits/paul-graham.png" width="150" alt="Paul Graham" />
-  <img src="assets/portraits/alex-hormozi.png" width="150" alt="Alex Hormozi" />
-  <img src="assets/portraits/peter-thiel.png" width="150" alt="Peter Thiel" />
-  <img src="assets/portraits/naval-ravikant.png" width="150" alt="Naval Ravikant" />
-  <img src="assets/portraits/sahil-lavingia.png" width="150" alt="Sahil Lavingia" />
+  <img src="assets/portraits/paul-graham.png" width="120" alt="Paul Graham" />
+  <img src="assets/portraits/alex-hormozi.png" width="120" alt="Alex Hormozi" />
+  <img src="assets/portraits/peter-thiel.png" width="120" alt="Peter Thiel" />
+  <img src="assets/portraits/naval-ravikant.png" width="120" alt="Naval Ravikant" />
+  <img src="assets/portraits/sahil-lavingia.png" width="120" alt="Sahil Lavingia" />
+  <img src="assets/portraits/pieter-levels.png" width="120" alt="Pieter Levels" />
+  <img src="assets/portraits/ben-horowitz.png" width="120" alt="Ben Horowitz" />
+  <img src="assets/portraits/andrew-chen.png" width="120" alt="Andrew Chen" />
+  <img src="assets/portraits/seth-godin.png" width="120" alt="Seth Godin" />
 </p>
 
 <table>
@@ -15,8 +19,16 @@
     <td align="center"><b>Paul Graham</b><br/><sub>YC / 50 Essays</sub><br/><code>Idea validation, early growth</code></td>
     <td align="center"><b>Alex Hormozi</b><br/><sub>$100M Offers</sub><br/><code>Offers, pricing, sales</code></td>
     <td align="center"><b>Peter Thiel</b><br/><sub>Zero to One</sub><br/><code>Monopoly, contrarian thinking</code></td>
+  </tr>
+  <tr>
     <td align="center"><b>Naval Ravikant</b><br/><sub>AngelList / Almanack</sub><br/><code>Leverage, specific knowledge</code></td>
     <td align="center"><b>Sahil Lavingia</b><br/><sub>Gumroad / TME</sub><br/><code>Bootstrapping, profitability</code></td>
+    <td align="center"><b>Pieter Levels</b><br/><sub>Nomad List / Photo AI</sub><br/><code>Indie hacking, ship fast</code></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ben Horowitz</b><br/><sub>a16z / Opsware</sub><br/><code>Hard decisions, wartime CEO</code></td>
+    <td align="center"><b>Andrew Chen</b><br/><sub>a16z / Cold Start Problem</sub><br/><code>Growth, network effects</code></td>
+    <td align="center"><b>Seth Godin</b><br/><sub>Purple Cow / This Is Marketing</sub><br/><code>Marketing, positioning</code></td>
   </tr>
 </table>
 
@@ -104,6 +116,34 @@ Frameworks from the "How to Get Rich" tweetstorm and *The Almanack of Naval Ravi
 Frameworks from *The Minimalist Entrepreneur* and Gumroad's real story -- the $8M raise, failed Series B, 75% layoff, and rebuild to profitability. Community-first, default alive, and the no-meetings operating model.
 
 **Sources:** [The Minimalist Entrepreneur](https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/0593192397), [Reflecting on My Failure](https://sahillavingia.com/reflecting)
+
+### Pieter Levels
+> *"Only 4 out of 70+ projects I ever did made money. Ship more."*
+
+Solo indie hacker running $3M+/year across Nomad List, Remote OK, Photo AI -- zero employees, vanilla PHP, single-server architecture. The 12 Startups in 12 Months challenge, revenue-first mindset, and automation over hiring.
+
+**Sources:** [levels.io](https://levels.io), [YouTube (Lex Fridman #497)](https://www.youtube.com/watch?v=oFtjKbXKqbg)
+
+### Ben Horowitz
+> *"The Struggle is where greatness comes from."*
+
+CEO who took Opsware from $0.35/share to $1.6B exit. Frameworks for the hardest moments in leadership: The Struggle, Wartime CEO, lead bullets not silver bullets, the right way to lay people off, and building culture deliberately.
+
+**Sources:** [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205), [a16z.com/author/ben-horowitz](https://a16z.com/author/ben-horowitz/)
+
+### Andrew Chen
+> *"The Cold Start Problem is Stage 1. There are four more."*
+
+Former Head of Rider Growth at Uber, now GP at a16z. The definitive frameworks for network effects, growth loops, viral mechanics, and marketplace dynamics. The Cold Start Problem's five stages, the Law of Shitty Clickthroughs, and atomic network design.
+
+**Sources:** [The Cold Start Problem](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749), [andrewchen.com](https://andrewchen.com)
+
+### Seth Godin
+> *"In a crowded marketplace, fitting in is failing."*
+
+20+ bestselling books on marketing. The Purple Cow, Permission Marketing, Smallest Viable Audience, The Dip, and tribal identity. Not tactics -- the foundational thinking about why people buy and how to earn attention.
+
+**Sources:** [seths.blog](https://seths.blog) (8,000+ posts), [This Is Marketing](https://www.amazon.com/dp/0525540830)
 
 ## Contributing
 

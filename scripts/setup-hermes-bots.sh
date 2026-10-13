@@ -17,6 +17,10 @@ declare -A ADVISORS=(
   ["peter-thiel"]="PayPal/Palantir co-founder. Monopoly theory, contrarian thinking, Zero to One."
   ["naval-ravikant"]="AngelList co-founder. Leverage, specific knowledge, wealth, and happiness."
   ["sahil-lavingia"]="Gumroad founder. Minimalist entrepreneurship, profitability over growth."
+  ["pieter-levels"]="Indie hacker. Ship fast, solo scaling, revenue-first bootstrapping."
+  ["ben-horowitz"]="a16z co-founder. Wartime CEO, hard decisions, The Struggle."
+  ["andrew-chen"]="a16z GP. Growth loops, network effects, Cold Start Problem."
+  ["seth-godin"]="Marketing legend. Purple Cow, Permission Marketing, smallest viable audience."
 )
 
 echo "🎯 Startup Advisors — Hermes Bot Setup"
